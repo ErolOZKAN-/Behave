@@ -1,0 +1,15 @@
+<testsuite errors="0" failures="0" hostname="vagrant" name="features.first.testing the first feature" skipped="0" tests="1" time="0.000804" timestamp="2019-06-30T12:24:16.795910"><testcase classname="features.first.testing the first feature" name="Login" status="passed" time="0.000804"><system-out>
+<![CDATA[
+@scenario.begin
+
+  @login
+  Scenario: Login
+    Given we opened the page ... passed in 0.000s
+    When we enter username and password ... passed in 0.000s
+    Then user logined ... passed in 0.000s
+    Then page is opened ... passed in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
